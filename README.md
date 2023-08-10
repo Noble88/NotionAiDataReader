@@ -1,5 +1,5 @@
 # NotionAiDataReader
-This code allows one to chat with their notion pages, typically from a exported database as md files. This code is rudimentary, but a testament of my knowledge of AI after researching and coding the subject
+This code allows one to chat with their notion pages, typically from a exported database as md files. This code is rudimentary, but represent my knowledge of AI after researching and coding it.
 
 In order for the code to work do the following...
 1) Make sure to export your notion database as a Markdown & CSV format (can include subpages)
